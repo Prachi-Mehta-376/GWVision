@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Python
+venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw LIGO datasets
+data/raw/*.hdf5
+
+# Processed datasets (we'll generate these later)
+data/processed/*.npy
+data/processed/*.npz
+
+# Model weights (later)
+models/*.pth
+models/*.h5
