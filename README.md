@@ -17,4 +17,3 @@ AI-powered gravitational wave detection and analysis platform using LIGO Open Da
 - FastAPI
 - React
 - Plotly
-- GWPy
